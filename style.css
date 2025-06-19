@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+}
+
+.resume-card {
+  border: 5px solid black;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 20 px black;
+  background-color: gray;
+}
+
+.resume-card h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0;
+  color: blueviolet;
+}
+
+.resume-card h3 {
+  font-weight: normal;
+  font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  color: #b9144b;
+}
+
+.resume-card p {
+  font-size: 15px;
+  margin: 8px 0;
+  color: white;
+}
+
+i {
+  margin-right: 5px;
+  color: #000;
+  text-align: center;
+  font-size: 30px;
+}
+
